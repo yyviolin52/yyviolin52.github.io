@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-19T03:38:53.171Z</updated>
+  <updated>2020-06-21T02:26:56.534Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Important-SQL-Questions</title>
+    <link href="http://yoursite.com/2020/06/20/Important-SQL-Questions/"/>
+    <id>http://yoursite.com/2020/06/20/Important-SQL-Questions/</id>
+    <published>2020-06-20T20:36:41.000Z</published>
+    <updated>2020-06-21T02:26:56.534Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;这篇SQL习题是非死不可的力扣题，我自己作为学习记录笔记目的。请勿用于商业目的。&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Database" scheme="http://yoursite.com/categories/Database/"/>
+    
+    
+      <category term="SQL" scheme="http://yoursite.com/tags/SQL/"/>
+    
+      <category term="Leetcode" scheme="http://yoursite.com/tags/Leetcode/"/>
+    
+      <category term="Facebook" scheme="http://yoursite.com/tags/Facebook/"/>
+    
+  </entry>
   
   <entry>
     <title>SQL-exercises-in-LeetCode-easy-part</title>
